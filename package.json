@@ -1,0 +1,20 @@
+{
+  "name": "vikzentra-web-agency",
+  "version": "1.0.0",
+  "description": "Vikzentra website development studio and startup landing platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "web-development",
+    "agency",
+    "startup",
+    "portfolio",
+    "website-services"
+  ],
+  "author": "Vikzentra",
+  "license": "MIT"
+}
+
